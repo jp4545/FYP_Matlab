@@ -1,0 +1,3 @@
+x = csvread(1dist.csv);
+y = csvread(1sinr.csv);
+plot(x,y)
